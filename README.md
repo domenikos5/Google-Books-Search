@@ -15,3 +15,10 @@ npm start
 ```
 
 Your app should now be running on <http://localhost:3000>. 
+
+
+## Deploying to Heroku
+
+Follow the Heroku guideline at the bottom.
+
+https://blog.heroku.com/deploying-react-with-zero-configuration
